@@ -18,12 +18,3 @@
 </p>
 
 -----------
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-<!--     <a href="https://discord.gg/link"> -->
-        <img title="Serups server discord" alt="Serups's discord" src="https://discord.c99.nl/widget/theme-3/396802543927427092.png"/>
-    </a>
-</p>
-
---------------
