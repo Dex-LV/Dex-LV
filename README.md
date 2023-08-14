@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adams</h1>
+<h1 align="center">Hi, I'm Deksters</h1>
 <!-- <h3 align="center">A Student who is learning computer science</h3> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dex-LV&show_icons=true&locale=en" alt="Dex-LV" /></p>
